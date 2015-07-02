@@ -1,5 +1,2 @@
-github "robrix/Box" "1.2.2"
-github "Hearst-DD/ObjectMapper" "0.11"
-github "smileyborg/PureLayout" "v2.0.6"
-github "antitypical/Result" "0.4.3"
-github "ReactiveCocoa/ReactiveCocoa" "b15798ae4f6386b8461b3b06f49908f2009a28ce"
+github "antitypical/Result" "0.5"
+github "ReactiveCocoa/ReactiveCocoa" "462da2a6f511c72ced8239276422bf65017105b0"
